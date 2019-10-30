@@ -8,3 +8,4 @@ Learning journal for Code 201 (Code Fellows).
 Week 1:
 
 - [Pre-Day 2 Reading: HTML, CSS, Basic JS](w1d2.md)
+- [Pre-Day 3 Reading: HTML Lists, CSS Boxes, JS Control Flow](w1d3.md)
